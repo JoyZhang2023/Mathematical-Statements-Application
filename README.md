@@ -20,3 +20,5 @@ Design a user-friendly interface to interact with the application. This can be a
 Ensure that the application is easy to navigate and provides clear instructions to the user.
 
 ## Video Demo
+https://github.com/user-attachments/assets/fe4eb1d1-8074-4efe-b2e2-1354379a2dc0
+
